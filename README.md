@@ -1,3 +1,4 @@
+<img width="1366" height="736" alt="Final Dashboard" src="https://github.com/user-attachments/assets/0f4db29b-7171-46fb-9a63-4ddfa1a47ff3" />
 # Hospital Emergency Room Dashboard (Excel)</br>
 </br>
 An interactive, single-page Excel dashboard that gives a monthly report on emergency room performance. I built it while learning from Saltish Dheweri's tutorial.</br>
